@@ -1,2 +1,2 @@
-# gala_traininkfdj
-GitHub repo for Gaeela
+# gala_training
+GitHub repo for Galya
